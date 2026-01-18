@@ -6,9 +6,9 @@ This repository hosts the Homebrew formula for Nexus.
 
 ```bash
 brew tap edgeopslabs/nexus
-brew install nexus
+brew install edgeopslabs/nexus/nexus-cli
 ```
 
 ## Update Formula
 
-Replace the URL and SHA256 in `Formula/nexus.rb` whenever you cut a new release.
+Replace the URL and SHA256 in `Formula/nexus-cli.rb` whenever you cut a new release.
